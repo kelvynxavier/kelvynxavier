@@ -36,8 +36,8 @@
 <a href="https://github.com/kelvynxavier"><img alt="RAM" src="https://img.shields.io/badge/32GB%20RAM-%23E01935.svg?&style=for-the-badge&logo=corsair&logoColor=white"/></a>
 <a href="https://github.com/kelvynxavier"><img alt="GPU" src="https://img.shields.io/badge/NVIDIA%20RTX%203090-77B901?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
 
-<a href="https://github.com/kelvynxavier"><img alt="NOTEBOOK" src="https://img.shields.io/badge/2-FFFFFF?style=for-the-badge&logo=computer&logoColor=white"/></a>
-<a href="https://github.com/kelvynxavier"><img alt="GPU" src='https://img.shields.io/badge/MacBook Pro 13" 2020-808080?style=for-the-badge&logo=apple&logoColor=white'/></a>
+<!--- <a href="https://github.com/kelvynxavier"><img alt="NOTEBOOK" src="https://img.shields.io/badge/2-FFFFFF?style=for-the-badge&logo=computer&logoColor=white"/></a> /-->
+<!--- <a href="https://github.com/kelvynxavier"><img alt="GPU" src='https://img.shields.io/badge/MacBook Pro 13" 2020-808080?style=for-the-badge&logo=apple&logoColor=white'/></a> /-->
 
 ## 🔎 About me
 
