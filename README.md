@@ -20,7 +20,7 @@
 
 <div align="center">
     <a href="https://github.com/kelvynxavier">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=kelvynxavier&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=1200&border=00000000&background=00000000&currStreakNum=FEFEFE&ring=00a5f7&fire=DD914E&sideNums=FEFEFE&currStreakLabel=dd914e&sideLabels=79C1FE&dates=FEFEFE&excludeDaysLabel=444B53&stroke=00a5f7"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=kelvynxavier&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=1200&border=00000000&background=00000000&currStreakNum=FEFEFE&ring=00a5f7&fire=DD914E&sideNums=FEFEFE&currStreakLabel=dd914e&sideLabels=79C1FE&dates=FEFEFE&excludeDaysLabel=00000000&stroke=00a5f7"/>
     </a>
 </div>
 
