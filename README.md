@@ -9,13 +9,12 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/75655706/132086807-9e326ab9-ae61-4464-9c3b-8827ea8b0718.png" width="150" height="150"/></p>
 
----
+</br>
 
 ```python
 > I'm lazy, so I automate things to avoid doing manual tasks lol
 ```
 
----
 
 ## 📊 Statistics
 
@@ -48,7 +47,7 @@
 	</p>
 </a>
 
----
+</br>
 
 <p align="center">
 	<a href="https://github.com/kelvynxavier">
