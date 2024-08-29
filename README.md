@@ -21,9 +21,15 @@
 <div align="left">
 	<a href="https://github.com/kelvynxavier">
     	<p align="center">
-        	<img src="https://github-readme-streak-stats.herokuapp.com?user=kelvynxavier&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=1200&border=00000000&background=00000000&currStreakNum=FEFEFE&ring=00a5f7&fire=DD914E&sideNums=FEFEFE&currStreakLabel=dd914e&sideLabels=79C1FE&dates=FEFEFE&excludeDaysLabel=444B53&stroke=00a5f7"/>
-		<img src="https://github-readme-activity-graph.vercel.app/graph?username=Revoluti0n&bg_color=00000000&color=ffffff&line=00a5f7&point=e7e3e2&area=true&hide_border=true"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=kelvynxavier&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=1200&border=00000000&background=00000000&currStreakNum=FEFEFE&ring=00a5f7&fire=DD914E&sideNums=FEFEFE&currStreakLabel=dd914e&sideLabels=79C1FE&dates=FEFEFE&excludeDaysLabel=444B53&stroke=00a5f7"/>
+	    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelvynxavier&bg_color=00000000&color=FEFEFE&line=00a5f7&point=e7e3e2&area=true&hide_border=true"/>
         </p>
+    </a>
+</div>
+
+<div align="center">
+    <a href="https://github.com/kelvynxavier">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kelvynxavier&show_icons=true&count_private=true&hide_border=true&title_color=00a5f7&icon_color=DD914E&text_color=FEFEFE&bg_color=00000000"/><img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvynxavier&layout=compact&hide_border=true&title_color=DD914E&text_color=FEFEFE&bg_color=00000000"/>
     </a>
 </div>
 
