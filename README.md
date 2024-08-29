@@ -1,13 +1,18 @@
+<a href="https://github.com/kelvynxavier">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00dde4,100:00a5f7&textBg=false&fontAlign=93&fontSize=15&fontAlignY=12&reversal=false&animation=fadeIn&fontColor=8AFFFF&descAlign=60"/>
-<p align="center">
-	<a href="https://github.com/Revoluti0n">
-    	<img alt="Kelvyn Xavier" src="https://readme-typing-svg.demolab.com/?lines=Kelvyn+Xavier&font=Fira%20Code&center=true&size=15&width=400&height=30&duration=4000&pause=500&repeat=false&color=DD914E"/>
-      	<br>
-      	<img alt="Typing Message" src="https://readme-typing-svg.demolab.com/?lines=Hello+darkness,+my+old+friend.;Welcome+to+my+profile!&font=Fira%20Code&center=true&width=400&height=50&duration=4000&pause=500&color=79C1FE">
-	</a>
-</p>
+</a>
 
+<a href="https://github.com/kelvynxavier">
+<p align="center">
+    <img alt="Kelvyn Xavier" src="https://readme-typing-svg.demolab.com/?lines=Kelvyn+Xavier&font=Fira%20Code&center=true&size=15&width=400&height=30&duration=4000&pause=500&repeat=false&color=DD914E"/>
+    <br>
+    <img alt="Typing Message" src="https://readme-typing-svg.demolab.com/?lines=Hello+darkness,+my+old+friend.;Welcome+to+my+profile!&font=Fira%20Code&center=true&width=400&height=50&duration=4000&pause=500&color=79C1FE">
+</p>
+</a>
+
+<a href="https://github.com/kelvynxavier">
 <p align="center"><img src="https://user-images.githubusercontent.com/75655706/132086807-9e326ab9-ae61-4464-9c3b-8827ea8b0718.png" width="150" height="150"/></p>
+</a>
 
 </br>
 
@@ -51,16 +56,19 @@
 ## 🔎 About me
 
 <a href="https://github.com/kelvynxavier">
-    <p align="center">
-		<img src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/b024133a-3fb7-40d3-b0b5-3a9c72e9072a"/>
-	</p>
+<p align="center">
+    <img src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/b024133a-3fb7-40d3-b0b5-3a9c72e9072a"/>
+</p>
 </a>
 
 </br>
 
+<a href="https://github.com/kelvynxavier">
 <p align="center">
-	<a href="https://github.com/kelvynxavier">
-		<img alt="Bye darkness, my old friend." src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&duration=4000&pause=50&color=79C1FE&width=1010&height=50&lines=01000010+01111001+01100101;01100100+01100001+01110010+01101011+01101110+01100101+01110011+01110011+00101100;01101101+01111001;01101111+01101100+01100100;01100110+01110010+01101001+01100101+01101110+01100100+00101110">
-	</a>
+    <img alt="Bye darkness, my old friend." src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&duration=4000&pause=50&color=79C1FE&width=1010&height=50&lines=01000010+01111001+01100101;01100100+01100001+01110010+01101011+01101110+01100101+01110011+01110011+00101100;01101101+01111001;01101111+01101100+01100100;01100110+01110010+01101001+01100101+01101110+01100100+00101110">
 </p>
+</a>
+
+<a href="https://github.com/kelvynxavier">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00dde4,100:00a5f7&textBg=false&fontAlign=93&fontSize=15&fontAlignY=12&reversal=true&animation=fadeIn&fontColor=8AFFFF&descAlign=60&section=footer"/>
+</a>
